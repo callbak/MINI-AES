@@ -41,7 +41,7 @@ Veuillez consulter le document officiel pour une explication détaillée du proj
    Sélectionnez le dossier du projet MINI-AES
    Cliquez sur Finish
 3. Compilation et exécution :
-   Ouvrez le fichier principal Main.java
+   Ouvrez le fichier principal aes.java
    Exécutez-le en cliquant sur Run (Ctrl + F11)
 
 ## Fonctionnalités
