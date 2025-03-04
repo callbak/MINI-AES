@@ -1,0 +1,11 @@
+# Ignore Eclipse-specific files and directories
+.classpath
+.project
+.settings/
+
+# Ignore compiled class files
+*.class
+
+# Ignore other unnecessary files
+bin/
+target/
