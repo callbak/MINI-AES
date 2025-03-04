@@ -41,14 +41,14 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 ### Installation du projet  
 1. Clonez ce dépôt Git :  
    ```sh
-   git clone https://github.com/callbak/MINI-AES.git  
-   cd MINI-AES
+   git clone https://github.com/callbak/Mini-AES.git  
+   cd Mini-AES
 
 ### Importer le projet dans Eclipse :
 
 1. Ouvrez Eclipse.
 2. Allez dans **File > Import > Existing Projects into Workspace**.
-3. Sélectionnez le dossier du projet **MINI-AES**.
+3. Sélectionnez le dossier du projet **Mini-AES**.
 4. Cliquez sur **Finish**.
 
 ### Compilation et exécution :
